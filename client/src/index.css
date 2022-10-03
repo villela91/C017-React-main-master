@@ -17,6 +17,5 @@ body,
 }
 
 body {
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #fff;
+  background-image: linear-gradient(to right, rgba(162, 0, 255, 0.288), rgb(255, 0, 221));  color: rgb(252, 250, 250);
 }
